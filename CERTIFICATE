@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+</head>
+
+<body style="margin: 0;">
+
+
+
+
+
+<div id="p1" style="overflow: hidden; position: relative; background-color: white; width: 909px; height: 1286px;">
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<style type="text/css"><![CDATA[
+.g0{
+fill: none;
+stroke: #000;
+stroke-width: 1.018;
+stroke-miterlimit: 10;
+}
+.g1{
+fill: #66B65A;
+}
+.g2{
+fill: none;
+stroke: #000;
+stroke-width: 1.527;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<path d="M448.3,378h25.5" class="g0"/>
+<image preserveAspectRatio="none" x="61" y="968" width="674" height="23" xlink:href="img/1.png"/>
+<path d="M61.1,145.9H454.5V113.1H61.1v32.8Z" class="g1"/>
+<path d="M454.5,145.9H847.9V113.1H454.5v32.8Z" class="g1"/>
+<image preserveAspectRatio="none" x="463" y="116" width="382" height="23" xlink:href="img/2.jpg"/>
+<image preserveAspectRatio="none" x="64" y="149" width="325" height="99" xlink:href="img/3.jpg"/>
+<image preserveAspectRatio="none" x="458" y="173" width="384" height="31" xlink:href="img/4.png"/>
+<path d="M61.1,270.1H257.8V251.3H61.1v18.8Zm196.7,0H454.5V251.3H257.8v18.8Zm196.7,0H651.2V251.3H454.5v18.8Zm196.7,0H847.9V251.3H651.2v18.8Z" class="g2"/>
+<path d="M61.1,317.9H847.9V297.6H61.1v20.3Z" class="g1"/>
+<path d="M61.1,317.9H847.9V297.6H61.1v20.3Z" class="g2"/>
+<path d="M61.1,417.6H847.9V397.3H61.1v20.3Z" class="g1"/>
+<path d="M61.1,417.6H847.9V397.3H61.1v20.3Zm0,27.2H257.8V417.6H61.1v27.2Zm196.7,0H651.2V417.6H257.8v27.2Zm393.4,0H847.9V417.6H651.2v27.2ZM61.1,472.1H257.8V444.8H61.1v27.3Zm196.7,0H651.2V444.8H257.8v27.3Zm393.4,0H847.9V444.8H651.2v27.3ZM61.1,499.4H257.8V472.1H61.1v27.3Zm196.7,0H651.2V472.1H257.8v27.3Zm393.4,0H847.9V472.1H651.2v27.3ZM61.1,526.7H257.8V499.4H61.1v27.3Zm196.7,0H651.2V499.4H257.8v27.3Zm393.4,0H847.9V499.4H651.2v27.3ZM61.1,551.2H257.8V526.7H61.1v24.5Zm196.7,0H651.2V526.7H257.8v24.5Zm393.4,0H847.9V526.7H651.2v24.5ZM61.1,578.4H257.8V551.2H61.1v27.2Zm196.7,0H651.2V551.2H257.8v27.2Zm393.4,0H847.9V551.2H651.2v27.2Z" class="g2"/>
+<image preserveAspectRatio="none" x="661" y="421" width="87" height="18" xlink:href="img/5.png"/>
+<image preserveAspectRatio="none" x="661" y="448" width="62" height="18" xlink:href="img/6.png"/>
+<image preserveAspectRatio="none" x="661" y="475" width="64" height="19" xlink:href="img/7.png"/>
+<image preserveAspectRatio="none" x="661" y="502" width="58" height="19" xlink:href="img/8.jpg"/>
+<image preserveAspectRatio="none" x="657" y="530" width="67" height="18" xlink:href="img/9.jpg"/>
+<image preserveAspectRatio="none" x="661" y="554" width="68" height="19" xlink:href="img/10.png"/>
+<path d="M61.1,598.7H847.9V578.4H61.1v20.3Z" class="g1"/>
+<path d="M61.1,598.7H847.9V578.4H61.1v20.3Zm0,27.3H257.8V598.7H61.1V626Zm196.7,0H651.2V598.7H257.8V626Zm393.4,0H847.9V598.7H651.2V626ZM61.1,650.4H257.8V626H61.1v24.4Zm196.7,0H651.2V626H257.8v24.4Zm393.4,0H847.9V626H651.2v24.4ZM61.1,677.7H257.8V650.4H61.1v27.3Zm196.7,0H651.2V650.4H257.8v27.3Zm393.4,0H847.9V650.4H651.2v27.3ZM61.1,696.5H257.8V677.7H61.1v18.8Zm196.7,0H847.9V677.7H257.8v18.8ZM61.1,723.8H257.8V696.6H61.1v27.2Zm196.7,0H651.2V696.6H257.8v27.2Zm393.4,0H847.9V696.6H651.2v27.2ZM61.1,751.1H257.8V723.8H61.1v27.3Zm196.7,0H651.2V723.8H257.8v27.3Zm393.4,0H847.9V723.8H651.2v27.3ZM61.1,778.4H257.8V751.1H61.1v27.3Zm196.7,0H651.2V751.1H257.8v27.3Zm393.4,0H847.9V751.1H651.2v27.3Z" class="g2"/>
+<image preserveAspectRatio="none" x="661" y="602" width="97" height="18" xlink:href="img/11.jpg"/>
+<image preserveAspectRatio="none" x="657" y="629" width="99" height="18" xlink:href="img/12.png"/>
+<image preserveAspectRatio="none" x="661" y="653" width="74" height="19" xlink:href="img/13.png"/>
+<image preserveAspectRatio="none" x="661" y="700" width="80" height="18" xlink:href="img/14.png"/>
+<image preserveAspectRatio="none" x="661" y="727" width="91" height="18" xlink:href="img/15.png"/>
+<image preserveAspectRatio="none" x="661" y="754" width="94" height="19" xlink:href="img/16.png"/>
+<path d="M61.1,798.7H847.9V778.4H61.1v20.3Z" class="g1"/>
+<path d="M61.1,798.7H847.9V778.4H61.1v20.3Zm0,27.3H257.8V798.7H61.1V826Zm196.7,0H651.2V798.7H257.8V826Zm393.4,0H847.9V798.7H651.2V826ZM61.1,865.4H257.8V825.9H61.1v39.5Zm196.7,0H651.2V825.9H257.8v39.5Zm393.4,0H847.9V825.9H651.2v39.5Z" class="g2"/>
+<image preserveAspectRatio="none" x="661" y="802" width="74" height="18" xlink:href="img/17.png"/>
+<image preserveAspectRatio="none" x="657" y="837" width="92" height="18" xlink:href="img/18.png"/>
+<path d="M61.1,908.7H257.8V889.9H61.1v18.8Zm196.7,0H847.9V889.9H257.8v18.8ZM61.1,936H257.8V908.7H61.1V936Zm196.7,0H651.2V908.7H257.8V936Zm393.4,0H847.9V908.7H651.2V936Z" class="g2"/>
+<image preserveAspectRatio="none" x="661" y="912" width="76" height="18" xlink:href="img/19.png"/>
+<path d="M61.1,1119.3H323.4V991H61.1v128.3Zm262.3,0H585.7V991H323.4v128.3Zm262.2,0H847.9V991H585.6v128.3Z" class="g2"/>
+<image preserveAspectRatio="none" x="64" y="994" width="122" height="122" xlink:href="img/20.jpg"/>
+<image preserveAspectRatio="none" x="444" y="1044" width="58" height="18" xlink:href="img/21.png"/>
+</svg>
+
+
+
+<!-- Begin shared CSS values -->
+<style class="shared-css" type="text/css" >
+.t {
+	transform-origin: bottom left;
+	z-index: 2;
+	position: absolute;
+	white-space: pre;
+	overflow: visible;
+	line-height: 1.5;
+}
+.text-container {
+	white-space: pre;
+}
+@supports (-webkit-touch-callout: none) {
+	.text-container {
+		white-space: normal;
+	}
+}
+</style>
+<!-- End shared CSS values -->
+
+
+<!-- Begin inline CSS -->
+<style type="text/css" >
+
+#t1_1{left:401px;bottom:1165px;letter-spacing:0.19px;}
+#t2_1{left:61px;bottom:934px;letter-spacing:0.12px;}
+#t3_1{left:61px;bottom:906px;letter-spacing:0.13px;}
+#t4_1{left:64px;bottom:316px;letter-spacing:-0.15px;}
+#t5_1{left:206px;bottom:134px;letter-spacing:0.1px;}
+#t6_1{left:394px;bottom:106px;letter-spacing:0.1px;}
+#t7_1{left:72px;bottom:1146px;letter-spacing:0.16px;}
+#t8_1{left:639px;bottom:1044px;letter-spacing:0.2px;}
+#t9_1{left:72px;bottom:1016px;letter-spacing:-0.12px;}
+#ta_1{left:269px;bottom:1016px;letter-spacing:-0.14px;}
+#tb_1{left:465px;bottom:1016px;letter-spacing:-0.11px;}
+#tc_1{left:657px;bottom:1016px;letter-spacing:-0.12px;}
+#td_1{left:72px;bottom:967px;letter-spacing:0.18px;}
+#te_1{left:72px;bottom:868px;letter-spacing:0.16px;}
+#tf_1{left:67px;bottom:845px;letter-spacing:-0.13px;}
+#tg_1{left:264px;bottom:846px;letter-spacing:0.13px;}
+#th_1{left:67px;bottom:818px;letter-spacing:-0.11px;}
+#ti_1{left:264px;bottom:818px;letter-spacing:-0.13px;}
+#tj_1{left:67px;bottom:791px;letter-spacing:-0.12px;}
+#tk_1{left:264px;bottom:791px;letter-spacing:-0.14px;}
+#tl_1{left:67px;bottom:763px;letter-spacing:-0.12px;}
+#tm_1{left:264px;bottom:763px;letter-spacing:-0.14px;}
+#tn_1{left:67px;bottom:737px;letter-spacing:-0.12px;}
+#to_1{left:264px;bottom:737px;letter-spacing:-0.16px;}
+#tp_1{left:67px;bottom:711px;letter-spacing:-0.12px;}
+#tq_1{left:264px;bottom:711px;letter-spacing:-0.14px;}
+#tr_1{left:72px;bottom:687px;letter-spacing:0.16px;}
+#ts_1{left:67px;bottom:664px;letter-spacing:-0.12px;}
+#tt_1{left:264px;bottom:664px;letter-spacing:-0.11px;}
+#tu_1{left:67px;bottom:638px;letter-spacing:-0.14px;}
+#tv_1{left:264px;bottom:638px;letter-spacing:-0.11px;}
+#tw_1{left:67px;bottom:612px;letter-spacing:-0.11px;}
+#tx_1{left:264px;bottom:612px;letter-spacing:-0.13px;}
+#ty_1{left:67px;bottom:589px;letter-spacing:-0.13px;}
+#tz_1{left:264px;bottom:589px;letter-spacing:-0.14px;}
+#t10_1{left:67px;bottom:566px;letter-spacing:-0.11px;}
+#t11_1{left:264px;bottom:566px;letter-spacing:-0.13px;}
+#t12_1{left:67px;bottom:539px;letter-spacing:-0.11px;}
+#t13_1{left:264px;bottom:539px;letter-spacing:-0.14px;}
+#t14_1{left:67px;bottom:512px;letter-spacing:-0.13px;}
+#t15_1{left:264px;bottom:512px;letter-spacing:-0.16px;}
+#t16_1{left:72px;bottom:487px;letter-spacing:0.17px;}
+#t17_1{left:67px;bottom:464px;letter-spacing:-0.13px;}
+#t18_1{left:264px;bottom:464px;letter-spacing:-0.17px;}
+#t19_1{left:67px;bottom:431px;letter-spacing:-0.13px;}
+#t1a_1{left:264px;bottom:441px;letter-spacing:-0.14px;}
+#t1b_1{left:264px;bottom:420px;letter-spacing:-0.13px;}
+#t1c_1{left:67px;bottom:377px;letter-spacing:-0.11px;}
+#t1d_1{left:95px;bottom:378px;letter-spacing:-0.14px;}
+#t1e_1{left:264px;bottom:377px;letter-spacing:-0.14px;}
+#t1f_1{left:67px;bottom:354px;letter-spacing:-0.12px;}
+#t1g_1{left:264px;bottom:354px;letter-spacing:-0.13px;}
+#t1h_1{left:326px;bottom:215px;letter-spacing:0.16px;}
+#t1i_1{left:455px;bottom:40px;letter-spacing:0.06px;}
+#t1j_1{left:472px;bottom:40px;}
+#t1k_1{left:714px;bottom:40px;letter-spacing:0.11px;}
+
+.s1{font-size:18px;font-family:Helvetica, Arial, sans-serif;color:#999;}
+.s2{font-size:15px;font-family:Helvetica, Arial, sans-serif;color:#000;}
+.s3{font-size:14px;font-family:Helvetica, Arial, sans-serif;color:#000;}
+.s4{font-size:12px;font-family:Helvetica, Arial, sans-serif;color:#000;}
+.s5{font-size:15px;font-family:Helvetica, Arial, sans-serif;color:#000;font-weight:bold;}
+.s6{font-size:18px;font-family:Helvetica, Arial, sans-serif;color:#000;font-weight:bold;}
+.s7{font-size:11px;font-family:Helvetica, Arial, sans-serif;color:#000;}
+.s8{font-size:18px;font-family:Helvetica, Arial, sans-serif;color:#000;}
+.s9{font-size:12px;font-family:Helvetica, Arial, sans-serif;color:#646464;}
+</style>
+<!-- End inline CSS -->
+
+<!-- Begin page background -->
+<div id="pg1Overlay" style="width:100%; height:100%; position:absolute; z-index:1; background-color:rgba(0,0,0,0); -webkit-user-select: none;"></div>
+<div id="pg1" style="-webkit-user-select: none;"><object width="909" height="1286" data="1/1.svg" type="image/svg+xml" id="pdf1" style="width:909px; height:1286px; -moz-transform:scale(1); z-index: 0;"></object></div>
+<!-- End page background -->
+
+
+<!-- Begin text definitions (Positioned/styled in CSS) -->
+<div class="text-container"><span id="t1_1" class="t s1">DUPLICATE </span>
+<span id="t2_1" class="t s2">This is to certify that, the vehicle with below mentioned details has been fitted with ESMA approved Road Speed </span>
+<span id="t3_1" class="t s2">Limiter device, programmed for a top speed of maximum 100 km/hr.The device is Calibrated and Sealed. </span>
+<span id="t4_1" class="t s3">[THREE YEAR FREE-REPLACEMENT WARRANTY ON THE UNIT SUBJECT TO CONTINUED RENEWAL OF CERTIFICATE] </span>
+<span id="t5_1" class="t s4">The validity of this Certificate is verified from the following website or scanning the QR Code </span>
+<span id="t6_1" class="t s4">www.thinture.com/get </span>
+<span id="t7_1" class="t s5">ROAD SPEED LIMITER CERTIFICATE </span>
+<span id="t8_1" class="t s6">ORIENT MOTORS L.L.C </span>
+<span id="t9_1" class="t s3">Applicable standard </span><span id="ta_1" class="t s3">GSO-1626/2002 </span><span id="tb_1" class="t s3">Country of Installation </span><span id="tc_1" class="t s3">United Arab Emirates </span>
+<span id="td_1" class="t s5">DECLARATION </span>
+<span id="te_1" class="t s5">VEHICLE DETAILS </span>
+<span id="tf_1" class="t s3">Vehicle Owner </span><span id="tg_1" class="t s4">JABAL ALI GENERAL TRANSPORT </span>
+<span id="th_1" class="t s3">Registration No. </span><span id="ti_1" class="t s3">1 88537 </span>
+<span id="tj_1" class="t s3">Chassis No. </span><span id="tk_1" class="t s3">JTGJX02P590024613 </span>
+<span id="tl_1" class="t s3">Engine No. </span><span id="tm_1" class="t s3">2TR8188755 </span>
+<span id="tn_1" class="t s3">Vehicle Type </span><span id="to_1" class="t s3">TOYOTA HIACE </span>
+<span id="tp_1" class="t s3">Vehicle Model </span><span id="tq_1" class="t s3">2009 </span>
+<span id="tr_1" class="t s5">SPEED LIMITER DETAILS </span>
+<span id="ts_1" class="t s3">Type of Speed Limiter </span><span id="tt_1" class="t s3">Electronic Pedal </span>
+<span id="tu_1" class="t s3">Brand Name </span><span id="tv_1" class="t s3">Thinture Speed Limiter </span>
+<span id="tw_1" class="t s3">Serial No. </span><span id="tx_1" class="t s3">TE/S/2016 </span>
+<span id="ty_1" class="t s3">Tamper Seal No. </span><span id="tz_1" class="t s3">N/A </span>
+<span id="t10_1" class="t s3">Date Of Installation </span><span id="t11_1" class="t s3">15/Dec/2013 </span>
+<span id="t12_1" class="t s3">Set speed limit </span><span id="t13_1" class="t s3">100 </span>
+<span id="t14_1" class="t s3">Technician Name </span><span id="t15_1" class="t s3">NIZAM </span>
+<span id="t16_1" class="t s5">DEALER DETAILS </span>
+<span id="t17_1" class="t s3">Dealer Name </span><span id="t18_1" class="t s3">LOCUS </span>
+<span id="t19_1" class="t s3">Address &amp; Phone </span>
+<span id="t1a_1" class="t s3">LOCUS MACHINERY PARTS TRADING, PO BOX : 8330, </span>
+<span id="t1b_1" class="t s3">MUSAFFAH M9, Abudhabi – UAE ,02 5557901 </span>
+<span id="t1c_1" class="t s3">UIN </span><span id="t1d_1" class="t s7">(Unique identification number) </span><span id="t1e_1" class="t s3">AE-188755-0073 </span>
+<span id="t1f_1" class="t s3">Valid Upto </span><span id="t1g_1" class="t s3">14/Dec/2014 </span>
+<span id="t1h_1" class="t s8">Dealer Stamp </span>
+<span id="t1i_1" class="t s9">1 - </span><span id="t1j_1" class="t s9">1 </span><span id="t1k_1" class="t s9">12/15/2013 11:51:08 AM </span></div>
+<!-- End text definitions -->
+
+
+</div>
+</body>
+</html>
